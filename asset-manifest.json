@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simtak/react-test-project.git/static/css/main.073c9b0a.css",
+    "main.js": "/simtak/react-test-project.git/static/js/main.ab60d9eb.js",
+    "static/js/787.49d21b03.chunk.js": "/simtak/react-test-project.git/static/js/787.49d21b03.chunk.js",
+    "static/media/logo.svg": "/simtak/react-test-project.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simtak/react-test-project.git/index.html",
+    "main.073c9b0a.css.map": "/simtak/react-test-project.git/static/css/main.073c9b0a.css.map",
+    "main.ab60d9eb.js.map": "/simtak/react-test-project.git/static/js/main.ab60d9eb.js.map",
+    "787.49d21b03.chunk.js.map": "/simtak/react-test-project.git/static/js/787.49d21b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab60d9eb.js"
+  ]
+}
